@@ -229,7 +229,7 @@ export const leadership = [
     name: "Dr. Shabana Ali",
     nameHi: "डॉ. शबाना अली",
     role: "Director, Programmes",
-    image: "https://m.media-amazon.com/images/I/71j-Zs8WvNL._AC_UY1100_.jpg",
+    image: "https://img.freepik.com/premium-photo/confidence-leads-success-portrait-young-woman-standing-office_590464-9747.jpg",
     quote: "Lasting change is built on the ground, with the community.",
   },
 ];
@@ -241,12 +241,11 @@ export const eliteMembers = [
   { id: "em4", name: "Mr. Murari Lal Muraraka", company: "Associated with 16 companies in India & Nepal", image: murariLal },
   { id: "em5", name: "Mr. Rakesh Kumar Gupta", company: "Retired IPS", image: rakeshKumarIps },
   { id: "em6", name: "Mr. Praful Tayal", company: "Retired Commander, Indian Navy", image: prafulTayal },
-  { id: "em7", name: "Mr. Kailash Kansal", company: "Tea Gardens", image: null },
-  { id: "em8", name: "Dr. Ramlal B Lhila", company: "Internal Medicine Specialist", image: drRbLhila },
-  { id: "em9", name: "Mr. Jaswant Singh Saini", company: "Saini Motors", image: jaswantSinghSaini },
-  { id: "em10", name: "Mr. Ghanshyam Prasad Agarwal", company: "Rupa Hosiery", image: gpAgarwala },
-  { id: "em11", name: "Mr. Sumer Mal Surana", company: "Senior Chartered Accountant", image: sumermalSurana },
-  { id: "em12", name: "Mr. Sita Ram Agarwal", company: "Super Shakti Steel", image: sitaramAgarwal },
+  { id: "em7", name: "Dr. Ramlal B Lhila", company: "Internal Medicine Specialist", image: drRbLhila },
+  { id: "em8", name: "Mr. Jaswant Singh Saini", company: "Saini Motors", image: jaswantSinghSaini },
+  { id: "em9", name: "Mr. Ghanshyam Prasad Agarwal", company: "Rupa Hosiery", image: gpAgarwala },
+  { id: "em10", name: "Mr. Sumer Mal Surana", company: "Senior Chartered Accountant", image: sumermalSurana },
+  { id: "em11", name: "Mr. Sita Ram Agarwal", company: "Super Shakti Steel", image: sitaramAgarwal },
 ];
 
 export const businessAbout = {

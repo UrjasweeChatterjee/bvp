@@ -38,7 +38,7 @@ export default function Home() {
         <LeadershipSection />
         <EliteMembersSection />
         <MembershipInclusions />
-        <VideoSection />
+        {/* <VideoSection /> */}
         <HowToJoin />
         <NetworkingGallery />
         <ContactSection />
