@@ -1,5 +1,17 @@
 // All content for the Indian Govt / NGO style site lives here.
 
+import vivekAdukia from "../assets/images/vivek_adukia.jpeg";
+import sureshChandBansal from "../assets/images/suresh_chand_bansal.jpeg";
+import vidhyaSagarAgarwal from "../assets/images/vidhya_sagar_agarwal.jpeg";
+import murariLal from "../assets/images/murari_lal.jpeg";
+import rakeshKumarIps from "../assets/images/rakesh_kumar_ips.jpeg";
+import prafulTayal from "../assets/images/praful_tayal.jpg";
+import drRbLhila from "../assets/images/dr_rb_lhila.jpeg";
+import jaswantSinghSaini from "../assets/images/jaswant_singh_saini.jpeg";
+import gpAgarwala from "../assets/images/gp_agarwala.jpg";
+import sumermalSurana from "../assets/images/sumermal_surana.jpeg";
+import sitaramAgarwal from "../assets/images/sitaram_agarwal.jpeg";
+
 export const org = {
   shortName: "BVP",
   nameEn: "Bharat Vikas Parishad",
@@ -220,6 +232,21 @@ export const leadership = [
     image: "https://m.media-amazon.com/images/I/71j-Zs8WvNL._AC_UY1100_.jpg",
     quote: "Lasting change is built on the ground, with the community.",
   },
+];
+
+export const eliteMembers = [
+  { id: "em1", name: "Mr. Vivek Adukia", company: "Director, Adukia Industries", image: vivekAdukia },
+  { id: "em2", name: "Mr. Suresh Chand Bansal", company: "Executive Chairman, Beekey Steel", image: sureshChandBansal },
+  { id: "em3", name: "Mr. Vidhya Sagar Agarwal", company: "Director, AOne Biscuits", image: vidhyaSagarAgarwal },
+  { id: "em4", name: "Mr. Murari Lal Muraraka", company: "Associated with 16 companies in India & Nepal", image: murariLal },
+  { id: "em5", name: "Mr. Rakesh Kumar Gupta", company: "Retired IPS", image: rakeshKumarIps },
+  { id: "em6", name: "Mr. Praful Tayal", company: "Retired Commander, Indian Navy", image: prafulTayal },
+  { id: "em7", name: "Mr. Kailash Kansal", company: "Tea Gardens", image: null },
+  { id: "em8", name: "Dr. Ramlal B Lhila", company: "Internal Medicine Specialist", image: drRbLhila },
+  { id: "em9", name: "Mr. Jaswant Singh Saini", company: "Saini Motors", image: jaswantSinghSaini },
+  { id: "em10", name: "Mr. Ghanshyam Prasad Agarwal", company: "Rupa Hosiery", image: gpAgarwala },
+  { id: "em11", name: "Mr. Sumer Mal Surana", company: "Senior Chartered Accountant", image: sumermalSurana },
+  { id: "em12", name: "Mr. Sita Ram Agarwal", company: "Super Shakti Steel", image: sitaramAgarwal },
 ];
 
 export const stats = [

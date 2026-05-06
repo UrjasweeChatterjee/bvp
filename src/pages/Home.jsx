@@ -8,6 +8,7 @@ import Carousel from "../components/Carousel";
 import QuickLinks from "../components/QuickLinks";
 import NewsNoticesTabs from "../components/NewsNoticesTabs";
 import LeadershipSection from "../components/LeadershipSection";
+import EliteMembersSection from "../components/EliteMembersSection";
 import VideoSection from "../components/VideoSection";
 import EventsCarousel from "../components/EventsCarousel";
 import ImportantLinks from "../components/ImportantLinks";
@@ -40,6 +41,7 @@ export default function Home() {
         <QuickLinks />
         <NewsNoticesTabs />
         <LeadershipSection />
+        <EliteMembersSection />
         <VideoSection />
         <EventsCarousel />
 
