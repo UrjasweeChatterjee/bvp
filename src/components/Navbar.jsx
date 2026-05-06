@@ -80,12 +80,12 @@ export default function Navbar() {
         </button>
 
         <div className="ml-4 hidden sm:flex items-center gap-2">
-          <Link
+          {/* <Link
             to="/business"
             className="inline-flex items-center gap-1.5 rounded-md bg-india-green-500/20 ring-1 ring-india-green-500/30 px-3 py-1.5 text-[13px] font-semibold text-india-green-400 hover:bg-india-green-500/30 transition-colors"
           >
             💼 Business Network
-          </Link>
+          </Link> */}
           <Link
             to="/platform/dashboard"
             className="inline-flex items-center gap-1.5 rounded-md bg-white/10 ring-1 ring-white/20 px-3 py-1.5 text-[13px] font-semibold text-white hover:bg-white/20 transition-colors"
