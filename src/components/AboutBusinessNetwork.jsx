@@ -65,7 +65,7 @@ export default function AboutBusinessNetwork() {
               Introduction
             </p>
 
-            {/* Heading — matches screenshot: plain + italic coloured word */}
+            {/* Heading */}
             <h2 className="text-3xl sm:text-4xl md:text-[2.65rem] font-bold text-ink-900 tracking-tight leading-tight">
               Where Business Meets{" "}
               <em className="not-italic font-bold text-brand-600 italic" style={{ fontStyle: "italic" }}>
@@ -73,10 +73,10 @@ export default function AboutBusinessNetwork() {
               </em>
             </h2>
 
-            {/* Tricolor accent bar */}
+            {/* Accent bar */}
             <span aria-hidden="true" className="block h-0.5 w-10 bg-gradient-to-r from-brand-400 to-brand-600 rounded-full" />
 
-            {/* Body paragraphs */}
+            {/* Body paragraphs — real website copy */}
             <p className="text-ink-500 leading-relaxed text-sm sm:text-base">
               Bharat Vikas Parishad (BVP) has long been a pillar of social upliftment and national
               development across India. The BVP Vyapar Manch extends this legacy into the
@@ -84,9 +84,7 @@ export default function AboutBusinessNetwork() {
               professionals, and business owners grow together.
             </p>
             <p className="text-ink-500 leading-relaxed text-sm sm:text-base">
-              Unlike conventional networking groups, we combine the discipline of structured referral
-              systems with the warmth of community belonging — rooted in BVP's trusted national
-              presence.
+              {businessAbout.philosophy}
             </p>
 
             {/* CTA */}

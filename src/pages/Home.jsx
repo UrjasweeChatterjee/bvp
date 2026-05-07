@@ -33,7 +33,7 @@ export default function Home() {
         <AnnouncementMarquee />
         <AboutBusinessNetwork />
         <WhatWeDo />
-        <PlatformStats />
+        {/* <PlatformStats /> */}
         <BenefitsSection />
         <LeadershipSection />
         <EliteMembersSection />

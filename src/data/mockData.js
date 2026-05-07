@@ -16,9 +16,9 @@ export const org = {
   shortName: "BVP",
   nameEn: "BVP Vyapar Manch",
   nameHi: "भारत विकास परिषद",
-  taglineEn: "Public Service • Public Welfare • Public Awareness",
+  taglineEn: "Bharat Vikas Parishad — Business Wing",
   taglineHi: "जन सेवा • जन कल्याण • जन जागरण",
-  motto: "Satyameva Jayate",
+  motto: "Generate Opportunity for Every Business",
   affiliationEn: "Ministry of Social Justice & Empowerment",
   affiliationHi: "सामाजिक न्याय एवं अधिकारिता मंत्रालय",
   estYear: 2005,
@@ -39,40 +39,40 @@ export const heroSlides = [
   {
     id: 1,
     image:
-      "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=1600&q=70",
-    title: "Empowering Communities",
-    caption: "Building a stronger, healthier and more inclusive society.",
+      "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=1600&q=70",
+    title: "Generating Opportunity for Every Business",
+    caption: "An elite, purpose-driven networking ecosystem rooted in the values of Bharat Vikas Parishad — connecting serious business leaders to accelerate growth.",
   },
   {
     id: 2,
     image:
-      "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?auto=format&fit=crop&w=1600&q=70",
-    title: "Education for Every Child",
-    caption: "Bridging the learning gap across rural and urban communities.",
+      "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=1600&q=70",
+    title: "Forge Alliances. Create Prosperity.",
+    caption: "When value-driven individuals collaborate, they don't just grow their businesses — they strengthen the community and the nation.",
   },
   {
     id: 3,
     image:
-      "https://images.unsplash.com/photo-1542810634-71277d95dcbb?auto=format&fit=crop&w=1600&q=70",
-    title: "Healthcare Outreach",
-    caption: "Bringing quality medical care to underserved areas.",
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=1600&q=70",
+    title: "Networking with a Higher Calling",
+    caption: "Backed by BVP's decades-long legacy of integrity and national presence across thousands of branches in India.",
   },
   {
     id: 4,
     image:
-      "https://images.unsplash.com/photo-1593113598332-cd288d649433?auto=format&fit=crop&w=1600&q=70",
-    title: "Sustainable Livelihoods",
-    caption: "Skills, training and resources for long-term independence.",
+      "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1600&q=70",
+    title: "₹5K Annual Investment. Limitless Returns.",
+    caption: "Less than ₹420 per month for a network that can generate lakhs in new business — backed by BVP's trusted national presence.",
   },
 ];
 
 // Marquee items for the "What's New" ticker
 export const announcements = [
-  { tag: "New", text: "Online registration open for Skill India Workshop 2026 — apply by 15 May.", href: "#" },
-  { tag: "Notice", text: "Tender for printing of annual report (Ref: BVP/2026/PRN/04) released.", href: "#" },
-  { tag: "Result", text: "Beneficiary list for PMAY-G phase IV published.", href: "#" },
-  { tag: "Update", text: "Citizen helpline (1800-11-2526) will be available 24×7 from 01 June.", href: "#" },
-  { tag: "Circular", text: "Revised guidelines for NGO empanelment (Circular 14/2026) issued.", href: "#" },
+  { tag: "New", text: "BVP Vyapar Manch is now accepting new member applications — limited category seats available.", href: "#join" },
+  { tag: "Notice", text: "Next monthly chapter meeting: 1st Sunday of June 2026 — time confirmed on joining.", href: "#contact" },
+  { tag: "Update", text: "Annual membership at just ₹5,000 — includes complimentary BVP Branch membership.", href: "#membership" },
+  { tag: "Invite", text: "Attend as a guest at no cost — experience the network firsthand before committing.", href: "#join" },
+  { tag: "Info", text: "Category exclusivity guaranteed — only one business per category per chapter.", href: "#about" },
 ];
 
 export const quickLinks = [
@@ -249,30 +249,31 @@ export const eliteMembers = [
 ];
 
 export const businessAbout = {
-  eyebrow: "About BVP Vyapar Manch",
-  title: "Where business meets purpose",
+  eyebrow: "Introduction",
+  title: "Business meets Purpose",
   description:
-    "BVP Vyapar Manch extends Bharat Vikas Parishad's legacy of social upliftment into the commercial arena — combining the discipline of structured referral systems with the warmth of community.",
+    "Bharat Vikas Parishad (BVP) has been a beacon of service and sanskar for decades. The Business Network is our latest initiative to empower our members in the professional sphere.",
+  philosophy: "Generate opportunity for all, grow together with integrity.",
   attributes: [
     {
       id: "ba1",
       title: "National Credibility",
-      body: "A decades-long legacy across thousands of branches lends every member institutional trust from day one.",
+      body: "Backed by BVP's decades-long legacy of integrity and national presence across thousands of branches in India.",
     },
     {
       id: "ba2",
       title: "Elite Membership",
-      body: "A curated community of serious, like-minded business owners — quality over quantity, always.",
+      body: "Curated community of serious business owners committed to mutual growth, ethical dealings, and collaborative success.",
     },
     {
       id: "ba3",
       title: "Structured Yet Flexible",
-      body: "One mandatory monthly meeting respects your schedule while keeping the network active and accountable.",
+      body: "One mandatory monthly meeting designed for maximum impact — focused, productive sessions that respect your time.",
     },
     {
       id: "ba4",
       title: "Exceptional Value",
-      body: "₹5,000 annually with complimentary BVP branch membership — built for high, measurable ROI.",
+      body: "At just ₹5,000 annually, access a complete networking ecosystem plus complimentary BVP branch membership.",
     },
   ],
 };
@@ -281,36 +282,36 @@ export const businessServices = [
   {
     id: "bs1",
     number: "01",
-    title: "Structured Referral Exchange",
-    description: "Members introduce and refer one another every month, creating a trusted pipeline of qualified leads.",
+    title: "Global Connectivity",
+    description: "Access a national network of successful professionals across various BVP chapters — your business reaches beyond local boundaries.",
     icon: "handshake",
   },
   {
     id: "bs2",
     number: "02",
-    title: "Monthly Power Meetings",
-    description: "One high-impact gathering each month for presentations, progress tracking and meaningful exchange.",
+    title: "Strategic Alliances",
+    description: "Build partnerships that go beyond simple referrals to create long-term business value and collaborative opportunities.",
     icon: "programme",
   },
   {
     id: "bs3",
     number: "03",
     title: "Category Exclusivity",
-    description: "Only one business per category per chapter — every referral in your field comes directly to you.",
+    description: "Only one business per category per chapter — your seat is protected, ensuring all referrals in your field come directly to you.",
     icon: "directory",
   },
   {
     id: "bs4",
     number: "04",
     title: "BVP Network Access",
-    description: "Tap into the vast BVP ecosystem across India — events, dignitaries and chapters at the national scale.",
+    description: "Tap into the vast BVP ecosystem across India — events, national chapters, and a community bound by shared values.",
     icon: "globe",
   },
 ];
 
 export const platformOverview = [
   { id: "po1", label: "Meeting Frequency", value: "1× / Month", note: "Mandatory" },
-  { id: "po2", label: "Annual Investment", value: "₹5,000", note: "All-inclusive" },
+  { id: "po2", label: "Annual Investment", value: "₹5,000", note: "< ₹420 / month" },
   { id: "po3", label: "Category System", value: "1 Per Category", note: "Per chapter" },
   { id: "po4", label: "BVP Branch", value: "Complimentary", note: "Included free" },
   { id: "po5", label: "Reach", value: "Local + National", note: "Across India" },
@@ -321,37 +322,37 @@ export const businessBenefits = [
   {
     id: "bb1",
     title: "Trusted Referrals",
-    description: "Receive warm, pre-qualified business leads from fellow members who personally vouch for the connection.",
+    description: "Receive warm, pre-qualified business leads from fellow members who vouch for your expertise — far more effective than cold outreach.",
     icon: "handshake",
   },
   {
     id: "bb2",
     title: "Category Protection",
-    description: "Hold the exclusive seat for your business category in the chapter — zero internal competition.",
+    description: "Your business category is exclusively yours within the chapter. Every referral in your field flows directly to you — zero internal competition.",
     icon: "directory",
   },
   {
     id: "bb3",
     title: "BVP Branch Membership",
-    description: "Complimentary access to your local BVP branch and the credibility benefits that come with it.",
+    description: "Complimentary membership at any BVP branch — access their events, social network, and the credibility of India's trusted national institution.",
     icon: "scheme",
   },
   {
     id: "bb4",
     title: "High-Impact Meetings",
-    description: "Focused, time-respectful sessions designed to generate real business outcomes — not small talk.",
+    description: "One focused monthly meeting structured to deliver maximum business value without consuming your schedule. Every minute is purposeful.",
     icon: "programme",
   },
   {
     id: "bb5",
     title: "Measurable Growth",
-    description: "Transparent tracking of referrals, exchanges and revenue so the value of membership is visible.",
+    description: "Track the business you give and receive. Our transparent system ensures accountability and shows clear ROI on your membership investment.",
     icon: "people",
   },
   {
     id: "bb6",
     title: "Skill Development",
-    description: "Exposure to diverse member presentations sharpens pitch, storytelling and business acumen over time.",
+    description: "Regular exposure to business presentations and insights from diverse members accelerates your personal and professional growth.",
     icon: "service",
   },
 ];
@@ -359,59 +360,74 @@ export const businessBenefits = [
 export const membershipInclusions = [
   "Monthly structured business meeting",
   "Exclusive category protection in your chapter",
-  "Complimentary BVP Branch membership",
+  "Free BVP Branch membership of your choice",
   "Access to the full member directory",
   "Referral tracking & accountability tools",
   "National BVP network access",
   "Business presentation platform",
-  "Skill development sessions",
+  "Ethical growth community rooted in integrity",
 ];
+
+export const membershipHeadline = {
+  price: "₹5K ANNUAL INVESTMENT",
+  subtext: "Less than ₹420/month for a network that can generate lakhs in new business.",
+};
 
 export const joinSteps = [
   {
     id: "js1",
     number: "01",
     title: "Express Your Interest",
-    description: "Fill out a short enquiry form so we can understand your business and find the right chapter for you.",
+    description: "Fill out the enquiry form or reach out to us. Tell us about your business and what you're looking to achieve through the network.",
   },
   {
     id: "js2",
     number: "02",
     title: "Attend as a Guest",
-    description: "Visit a monthly chapter meeting at no cost — meet the members and experience the format first-hand.",
+    description: "Visit one of our monthly chapter meetings as a guest — at no cost — to experience the culture, meet members, and see the value firsthand.",
   },
   {
     id: "js3",
     number: "03",
     title: "Category Verification",
-    description: "We confirm that your business category is available so you receive exclusive referrals in that field.",
+    description: "We verify your business category is available in the chapter. If open, your seat is exclusively reserved — no competitor can join in your field.",
   },
   {
     id: "js4",
     number: "04",
-    title: "Complete Membership",
-    description: "Submit the ₹5,000 annual fee — your BVP branch membership is included at no additional cost.",
+    title: "Complete Membership — ₹5,000/year",
+    description: "Submit your annual fee. This includes BVP branch membership of your choice, chapter access, and all network benefits.",
   },
   {
     id: "js5",
     number: "05",
-    title: "Welcome Aboard",
-    description: "Attend your first official meeting, introduce your business and begin exchanging trusted referrals.",
+    title: "Welcome to the Elite Network",
+    description: "Attend your first official meeting, introduce your business, and begin giving and receiving referrals within a trusted growth community.",
   },
 ];
+
+export const joinPageIntro = {
+  heading: "Your Path to Elite Membership",
+  subtext:
+    "Joining BVP Business Network is transparent and straightforward — designed to ensure every member is serious, committed, and aligned with our values of mutual growth.",
+};
 
 export const businessContact = {
   address: "Newtown, India — multiple chapters available across the country",
   phone: "+91 XXXXX XXXXX",
   email: "network@bvp.org.in",
-  meeting: "Monthly • 1st Sunday (time confirmed on joining)",
+  meeting: "Monthly — 1st Sunday (Time confirmed on joining)",
+  cta: {
+    heading: "Ready to Grow Together?",
+    subtext: "Whether you're ready to join or just curious — we'd love to have a conversation.",
+  },
 };
 
 export const stats = [
-  { value: "1.2M+", label: "Lives impacted", icon: "people" },
-  { value: "350+", label: "Programmes run", icon: "programme" },
-  { value: "120+", label: "Partner institutions", icon: "handshake" },
-  { value: "21", label: "States served", icon: "map" },
+  { value: "₹5K", label: "Annual membership", icon: "people" },
+  { value: "1×", label: "Monthly meeting", icon: "programme" },
+  { value: "1", label: "Business per category", icon: "handshake" },
+  { value: "Pan India", label: "BVP Network reach", icon: "map" },
 ];
 
 export const importantLinks = [
@@ -438,13 +454,13 @@ export const galleryImages = [
 
 export const footer = {
   about:
-    "An initiative of Bharat Vikas Parishad — rooted in integrity, community, and national progress.",
+    "Generating opportunity for all business with elite members — rooted in service, driven by growth. An initiative of Bharat Vikas Parishad.",
   contact: {
-    address: "Block-A, Civic Centre, Janpath, New Delhi 110001, India",
-    phone: "+91 11 2345 6789",
-    helpline: "1800-11-2526",
-    email: "contact@bvp.gov.in",
-    rti: "rti@bvp.gov.in",
+    address: "Newtown, India — Multiple chapters available across the country",
+    phone: "+91 XXXXX XXXXX",
+    helpline: "network@bvp.org.in",
+    email: "network@bvp.org.in",
+    rti: "network@bvp.org.in",
   },
   socials: [
     { label: "Twitter", href: "#", icon: "twitter" },
@@ -454,4 +470,5 @@ export const footer = {
     { label: "YouTube", href: "#", icon: "youtube" },
   ],
   visitorCount: 18472193,
+  copyright: "© 2025 BVP Business Network. All rights reserved.",
 };
