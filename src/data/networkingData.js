@@ -21,7 +21,7 @@ export const members = [
   {
     id: "m1",
     name: "Dr. Priya Nair",
-    avatar: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=200&q=70",
+    avatar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmCtfMaHV0RvHMGSUVRs-7PKgf5x2kQ3kHmg&s",
     businessName: "Nair Healthcare Solutions",
     industry: "Healthcare",
     services: ["Telehealth Consultation", "Health Camp Organisation", "Pharma Liaison"],
@@ -35,7 +35,7 @@ export const members = [
   {
     id: "m2",
     name: "Shri Vikram Singh",
-    avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&q=70",
+    avatar: "https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg",
     businessName: "Singh Agro Exports",
     industry: "Agriculture & Food",
     services: ["Export Consulting", "Agri-Logistics", "Organic Certification"],
@@ -49,7 +49,7 @@ export const members = [
   {
     id: "m3",
     name: "Ms. Kavitha Reddy",
-    avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&q=70",
+    avatar: "https://media.istockphoto.com/id/1292137633/photo/outdoor-waist-up-portrait-of-a-beautiful-woman-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=90Sz-TNYftQ38zBP2_2qmWOJPQwkyEjNZLP7zyT7CC8=",
     businessName: "Reddy Digital Studio",
     industry: "Technology & IT",
     services: ["Web Development", "Digital Marketing", "UI/UX Design"],
@@ -63,7 +63,7 @@ export const members = [
   {
     id: "m4",
     name: "Shri Ramesh Patel",
-    avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=200&q=70",
+    avatar: "https://t4.ftcdn.net/jpg/00/33/37/83/360_F_33378356_gbnqycEE7TWnxa8Og49mkTn6ISTjxjVT.jpg",
     businessName: "Patel Construction",
     industry: "Construction & Real Estate",
     services: ["Residential Projects", "Interior Design", "Project Management"],
@@ -77,7 +77,7 @@ export const members = [
   {
     id: "m5",
     name: "Ms. Sunita Joshi",
-    avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=200&q=70",
+    avatar: "https://img.freepik.com/premium-photo/professional-indian-woman-confident-poised-business-portrait_606187-8193.jpg?w=360",
     businessName: "Joshi Financial Services",
     industry: "Finance & Banking",
     services: ["Investment Advisory", "Tax Planning", "Insurance Broking"],
@@ -91,7 +91,7 @@ export const members = [
   {
     id: "m6",
     name: "Shri Anil Kumar",
-    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=70",
+    avatar: "https://t3.ftcdn.net/jpg/04/47/84/36/360_F_447843624_KKD5gvtFA9GiM1RnEnxB1YCDvk5CSH0k.jpg",
     businessName: "Kumar Education Hub",
     industry: "Education & Training",
     services: ["Corporate Training", "E-Learning Solutions", "Certification Courses"],
@@ -323,7 +323,7 @@ export const networkingEvents = [
     date: "2026-05-20",
     time: "10:00 AM – 5:00 PM",
     venue: "India Habitat Centre, Lodhi Road, New Delhi",
-    image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=1000&q=70",
+    image: "https://nitingadkari.org.in/wp-content/uploads/2024/07/912c061b-c5ba-4a83-b00f-cad8fa130dba.jpeg",
     category: "Networking",
     description:
       "An exclusive gathering of BVP chapter members for high-value business networking, panel discussions and keynote addresses by industry leaders.",
@@ -337,7 +337,7 @@ export const networkingEvents = [
     date: "2026-06-05",
     time: "9:00 AM – 7:00 PM",
     venue: "NSIC Exhibition Ground, Okhla, New Delhi",
-    image: "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?auto=format&fit=crop&w=1000&q=70",
+    image: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/10/india-international-trade-fair-1633362871.jpg",
     category: "Trade Fair",
     description:
       "Showcase your products and services, meet potential business partners and explore export opportunities with over 300 exhibitors.",
@@ -351,7 +351,7 @@ export const networkingEvents = [
     date: "2026-06-18",
     time: "2:00 PM – 6:00 PM",
     venue: "PHD Chamber of Commerce, New Delhi",
-    image: "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?auto=format&fit=crop&w=1000&q=70",
+    image: "https://cdn.digitalindiacorporation.in/wp-content/uploads/2025/05/DSC06890-1.jpg",
     category: "Workshop",
     description:
       "Learn how to leverage Digital India initiatives for your business growth — GST, MSME registration, export incentives and e-commerce onboarding.",
@@ -365,7 +365,7 @@ export const networkingEvents = [
     date: "2026-06-21",
     time: "10:00 AM – 4:00 PM",
     venue: "Taj Mahal Hotel, New Delhi",
-    image: "https://images.unsplash.com/photo-1573164574572-cb89e39749b4?auto=format&fit=crop&w=1000&q=70",
+    image: "https://smeventure.com/wp-content/uploads/2024/03/53562654383_dafed066ec_o-scaled.jpg",
     category: "Summit",
     description:
       "Empowering women in business through mentorship, access to capital, networking and exposure to government schemes for women entrepreneurs.",
