@@ -445,7 +445,7 @@ export const galleryImages = [
   "https://bvpindia.com/wp-content/uploads/2018/10/seminar_1190x-1024x431.jpg",
   "https://bvpindia.com/wp-content/uploads/2024/07/cutain_traiser2013.png",
   "https://www.compliancesarathi.in/wp-content/uploads/2025/06/step-1-ngo.jpg",
-  "https://images.stockcake.com/public/2/5/e/25e99747-651b-4c1f-9733-dcb697424bed_large/group-discussion-session-stockcake.jpg",
+  "https://bvpindia.com/wp-content/uploads/2022/08/beti.jpg",
   "https://img.freepik.com/free-photo/group-four-south-asian-men-s-posed-business-meeting-cafe-indians-together-sign-important-documents-contract-study-work_627829-5252.jpg?semt=ais_hybrid&w=740&q=80",
   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc7DwRXnH-FPnA46ldpXxJWD15nlk7U5TwBA&s",
   "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=70",
